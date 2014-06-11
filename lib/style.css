@@ -1,0 +1,77 @@
+pre {
+word-break:break-word;
+}
+
+h1 {
+text-align:center;
+}
+
+li {
+	list-style-type:disc;
+	list-style-position:inside;
+}
+
+.container {
+padding-top:2px;
+text-align:justify!important;
+font-size:13pt;
+margin:130px;
+}
+
+.author-by-line {
+text-align:right;
+display:block;
+}
+
+img.f {
+width:42%!important;
+padding-bottom:14px;
+height:inherit !important;
+}
+
+img.f.right {
+float:right;
+padding-left:14px;
+}
+
+img.f.left {
+float:left;
+padding-right:14px;
+}
+
+.step-container {
+max-width:100%;
+display:inline-block;
+margin-top:24px;
+}
+
+.coverpage {
+width:100%;
+height:100%;
+background:url(http://i.imgur.com/MXDJrVJ.png);
+display:inline-block;
+vertical-align:middle;
+text-align:middle;
+}
+
+.coverpage img {
+width:100%!important;
+float:initial;
+vertical-align:middle;
+margin:auto;
+height:initial !important;
+max-height:80%;
+}
+
+h1.title {
+font-size:50pt;
+text-align:right;
+font-family:impact;
+color:#fff;
+padding-right:15px;
+}
+
+.media_embed,.remove-ads,.fc-panel,.photoset {
+display:none;
+}
+
